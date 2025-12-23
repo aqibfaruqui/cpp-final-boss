@@ -9,6 +9,7 @@ Check each *coding exercise* for its own README
 - CF231-D2-A: https://codeforces.com/contest/231/problem/A
 - CF263-D2-A: https://codeforces.com/contest/263/problem/A
 - CF405-D2-A: https://codeforces.com/contest/405/problem/A
+- CF112-D2-A: https://codeforces.com/contest/112/problem/A
 
 ### Coding exercises
 - RAII Wrapper for Files (like std::unique_ptr<>)
