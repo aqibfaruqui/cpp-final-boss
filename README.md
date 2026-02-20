@@ -10,9 +10,9 @@ Check each *coding exercise* for its own README
 - CF263-D2-A: https://codeforces.com/contest/263/problem/A
 - CF405-D2-A: https://codeforces.com/contest/405/problem/A
 - CF112-D2-A: https://codeforces.com/contest/112/problem/A
-
 - CF129-D2-B: https://codeforces.com/contest/129/problem/B
 - CF576-D2-B: https://codeforces.com/contest/476/problem/B
+- CF282-D2-B: https://codeforces.com/contest/282/problem/B
 
 ### Coding exercises
 - RAII Wrapper for Files (like std::unique_ptr<>)
